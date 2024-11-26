@@ -120,7 +120,8 @@ Os métodos `join()` e `sleep()` são fundamentais para o controle de threads no
 
 - Documentação oficial do Java: [Thread](https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html)
 - Exemplos práticos: [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+- Material da disciplina - [ELC117](https://github.com/andreaInfUFSM/elc117-2024b)
 
 ---
 
-**Desenvolvido por:** Pedro Henrique Abreu
+**By:** Pedro Henrique Abreu
