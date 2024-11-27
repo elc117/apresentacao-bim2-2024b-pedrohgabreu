@@ -68,6 +68,6 @@ Representa imagens carregadas na memória. Métodos principais:
 ---
 
 ## **Refêrencias e ferramentas utilizadas**
-O diagrama foi criado utilizando [PlantUML](https://plantuml.com)
-Materiais disponibilizados pela professora - [aqui](https://github.com/libgdx/libgdx/tree/master)
+- O diagrama foi criado utilizando [PlantUML](https://plantuml.com)
+- Materiais disponibilizados pela professora - [aqui](https://github.com/libgdx/libgdx/tree/master)
 
