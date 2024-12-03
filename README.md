@@ -58,7 +58,7 @@ Interface que representa uma tela do jogo. Inclui os métodos:
 ### **4. SpriteBatch**
 Classe utilizada para desenhar gráficos na tela. Métodos importantes:
 - `begin()` e `end()`: Iniciam e finalizam a renderização.
-- `draw(Texture texture, float x, float y)`: Desenha texturas na posição especificada.
+- `draw(Texture texture, float x, float y)`: Desenha texturas na posição especificada..
 
 ### **5. Texture**
 Representa imagens carregadas na memória. Métodos principais:
